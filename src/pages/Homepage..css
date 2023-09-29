@@ -1,0 +1,11 @@
+.headerandhero {
+  -webkit-box-align: center;
+  align-items: center;
+  position: relative;
+  padding: 60px 50px 100px;
+}
+@media all and (max-width: 767px) {
+  .headerandhero {
+    padding: 60px 40px 70px;
+  }
+}

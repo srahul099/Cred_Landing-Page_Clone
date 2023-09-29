@@ -1,0 +1,30 @@
+.feel-special {
+  width: 100vw;
+  min-height: 100vh;
+  position: relative;
+  background-color: var(--bg-red);
+  background-image: url(https://web-images.credcdn.in/_next/assets/images/home-page/deserve-more-bg.jpg);
+  background-size: cover;
+  padding: 240px 200px 180px;
+  justify-content: space-between;
+}
+
+@media all and (max-width: 1279px) {
+  .feel-special {
+    background-position: center bottom;
+    padding: 240px 100px 180px;
+  }
+}
+@media all and (max-width: 767px) {
+  .feel-special {
+    background-image: url(https://web-images.credcdn.in/_next/assets/images/home-page/deserve-more-bg-mobile.jpg);
+    padding: 195px 40px 90px;
+    min-height: 1150px;
+    background-position: right center;
+  }
+  .feel-special-content {
+    flex-direction: column;
+    -webkit-box-pack: justify;
+    gap: 700px;
+  }
+}
