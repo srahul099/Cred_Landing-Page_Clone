@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Cred_Landing-Page_Clone/static/css/main.6e30c33f.css",
+    "main.js": "/Cred_Landing-Page_Clone/static/js/main.aa1557eb.js",
+    "static/js/787.b3d26b7b.chunk.js": "/Cred_Landing-Page_Clone/static/js/787.b3d26b7b.chunk.js",
+    "static/media/Gilroy-Thin.ttf": "/Cred_Landing-Page_Clone/static/media/Gilroy-Thin.28f856b7c4b3d473e0d1.ttf",
+    "static/media/Gilroy-Regular.ttf": "/Cred_Landing-Page_Clone/static/media/Gilroy-Regular.5b89a8df3b17dccdb73f.ttf",
+    "static/media/Gilroy-Medium.ttf": "/Cred_Landing-Page_Clone/static/media/Gilroy-Medium.1b4da6582f83f45ea039.ttf",
+    "static/media/Gilroy-SemiBold.ttf": "/Cred_Landing-Page_Clone/static/media/Gilroy-SemiBold.07b9100a72fe7d46d20a.ttf",
+    "static/media/Gilroy-Bold.ttf": "/Cred_Landing-Page_Clone/static/media/Gilroy-Bold.ca49f7658c4eaac78b6d.ttf",
+    "index.html": "/Cred_Landing-Page_Clone/index.html",
+    "main.6e30c33f.css.map": "/Cred_Landing-Page_Clone/static/css/main.6e30c33f.css.map",
+    "main.aa1557eb.js.map": "/Cred_Landing-Page_Clone/static/js/main.aa1557eb.js.map",
+    "787.b3d26b7b.chunk.js.map": "/Cred_Landing-Page_Clone/static/js/787.b3d26b7b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e30c33f.css",
+    "static/js/main.aa1557eb.js"
+  ]
+}
