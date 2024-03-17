@@ -44,6 +44,7 @@
   padding: 4px 0;
   text-decoration: none;
   opacity: 86%;
+  color: var(--white);
 }
 a:visited {
   color: var(--bg-gray);
