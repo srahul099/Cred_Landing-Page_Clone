@@ -1,0 +1,45 @@
+.credexperience {
+  background-color: var(--bg-blue);
+  width: 100vw;
+  min-height: 100vh;
+  position: relative;
+  background-image: url(https://web-images.credcdn.in/_next/assets/images/home-page/money-matters-bg.jpg);
+  background-size: contain;
+  padding: 220px 200px 140px;
+
+  justify-content: space-between;
+}
+.photo-section-headingce {
+  width: 700px;
+}
+@media all and (max-width: 1279px) {
+  .credexperience {
+    background-size: cover;
+    padding: 240px 100px 180px;
+    background-position: bottom center;
+  }
+  .photo-section-headingce {
+    width: 400px;
+  }
+}
+@media all and (max-width: 767px) {
+  .credexperience {
+    background-image: url(https://web-images.credcdn.in/_next/assets/images/home-page/money-matters-bg-mobile.jpg);
+    padding: 195px 40px 90px;
+    min-height: 1150px;
+    background-size: cover;
+    background-position: right center;
+  }
+  .credexperience-content {
+    flex-direction: column;
+    -webkit-box-pack: justify;
+    justify-items: flex-end;
+    margin-top: 300px;
+  }
+  .photo-section-headingce {
+    width: 100px;
+  }
+  .photo-section-descriptionce {
+    margin: 75px 0 40px 0;
+  }
+}

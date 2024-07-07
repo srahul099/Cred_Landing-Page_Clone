@@ -1,0 +1,28 @@
+.headerandhero {
+  -webkit-box-align: center;
+  align-items: center;
+  position: relative;
+  padding: 60px 50px 100px;
+}
+@media all and (max-width: 767px) {
+  .headerandhero {
+    padding: 60px 40px 70px;
+  }
+}
+
+.caution {
+  background: linear-gradient(
+    90deg,
+    rgba(255, 188, 0, 1) 0%,
+    rgba(255, 150, 0, 1) 35%,
+    rgba(255, 93, 0, 1) 100%
+  );
+  color: black;
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: 600;
+  position: fixed;
+  width: 100%;
+  z-index: 100;
+  padding: 10px 0;
+}
